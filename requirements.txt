@@ -4,6 +4,7 @@ SQLAlchemy
 langchain
 langchain-core
 langchain-community
+langchain-huggingface
 chromadb
 pypdf
 gunicorn
