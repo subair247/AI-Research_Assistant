@@ -1,0 +1,29 @@
+# Python / Virtual Environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+ENV/
+env/
+
+# Project Data and Assets
+data/raw_documents/*
+data/vector_db/*
+data/*.db
+models/*.h5
+models/*.pickle
+
+# Environment Variables
+.env
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
