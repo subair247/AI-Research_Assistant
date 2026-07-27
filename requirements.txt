@@ -5,6 +5,7 @@ langchain
 langchain-core
 langchain-community
 langchain-huggingface
+langchain-google-genai
 chromadb
 pypdf
 gunicorn
