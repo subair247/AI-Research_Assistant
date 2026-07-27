@@ -1,5 +1,6 @@
 ﻿Flask
 flask-cors
+SQLAlchemy
 langchain
 langchain-core
 chromadb
